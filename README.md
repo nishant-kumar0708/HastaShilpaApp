@@ -119,36 +119,6 @@ Run → Run 'app'
 > The original developer's keys are stored locally and the app works fully.
 
 
-📁 Project Structure
-app/src/main/java/com/hastashilpa/app/
-├── MainActivity.kt              # Home screen, product card, bottom nav
-├── data/
-│   ├── BatchDatabase.kt         # Room DB — batches + users tables
-│   ├── AuthRepository.kt        # Login, register, SHA-256 hashing
-│   └── AppPreferences.kt        # SharedPreferences wrapper
-├── navigation/
-│   └── AppNavGraph.kt           # NavHost with 9 routes
-├── ui/screens/
-│   ├── AuthScreen.kt            # Login + Register UI
-│   ├── Screens.kt               # Blueprint, Tracker, Pricer, Marketplace
-│   ├── GenAiDesignScreen.kt     # AI Design Suggester
-│   ├── OnboardingScreen.kt      # 3-page first launch flow
-│   └── ProgressDashboardScreen.kt
-├── viewmodel/
-│   ├── AuthViewModel.kt         # Auth state, login, logout
-│   ├── GenAiViewModel.kt        # Gemini API calls, JSON parsing
-│   ├── TrackerViewModel.kt      # Batch CRUD via Room
-│   ├── PricerViewModel.kt       # Price calculation
-│   └── MarketplaceViewModel.kt  # Listing state
-└── util/
-    ├── UnsplashImageFetcher.kt  # Unsplash API with in-memory cache
-    ├── UnsplashImage.kt         # Reusable image composable
-    ├── ProductImageUrls.kt      # Search query builder per product
-    ├── PdfExporter.kt           # Blueprint + batch PDF export
-    ├── OfflineCache.kt          # File-based offline cache
-    ├── NetworkUtils.kt          # Connectivity check
-    └── SecurePrefs.kt           # AES-256 encrypted preferences
-
 🔑 API Keys
 This project uses two external APIs. Keys are stored locally and never committed to Git.
 APIPurposeFree TierUnsplashProduct & blueprint images50 requests/hourGoogle GeminiAI design suggestions15 requests/minute
