@@ -1,5 +1,7 @@
 📱 About
+
 Hasta-Shilpa is a fully functional Android application designed to empower bamboo and cane artisans across the Western Ghats region of India. The app bridges the gap between traditional craft skills and modern urban market demands.
+
 Artisans get access to:
 
 Real-time design trends from urban buyers
@@ -11,6 +13,7 @@ Material tracking with persistent local storage
 
 
 ✨ Features
+
 🏠 Home Screen
 
 Scrollable product feed with 16+ bamboo & cane products
@@ -87,6 +90,7 @@ OfflineCache utility with file-based caching
 LayerTechnologyLanguageKotlin 2.1.0UI FrameworkJetpack Compose + Material 3ArchitectureMVVM + Repository PatternNavigationNavigation ComposeLocal DatabaseRoom (Entity, DAO, Database)PreferencesSharedPreferences + EncryptedSharedPreferences (AES-256)Image LoadingCoil 2.6.0Image SourceUnsplash APIAIGoogle Gemini 2.0 Flash APIHTTP ClientHttpURLConnection (no extra dependency)JSON Parsingorg.json.JSONObject / JSONArrayPDF GenerationAndroid PdfDocument APIMin SDKAndroid 8.0 (API 25)Target SDKAndroid 15 (API 35)
 
 🚀 Getting Started
+
 Prerequisites
 
 Android Studio Hedgehog or newer
