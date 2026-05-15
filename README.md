@@ -405,7 +405,7 @@ app/src/main/java/com/hastashilpa/app/
 | Version | Feature | Status |
 |:-------:|:--------|:------:|
 | **v2.0** | 🔥 Firebase Firestore — cloud backup & real-time sync (NFR14) | 🗓️ Planned |
-| **v2.0** | 🌐 Multi-language support — Kannada · Marathi · Telugu | 🗓️ Planned |
+| **v2.0** | 🌐 Multi-language support — Kannada · Hindi · Telugu | 🗓️ Planned |
 | **v2.0** | 📸 Camera integration — artisans photograph products for listings | 🗓️ Planned |
 | **v2.1** | 💳 Real payment gateway — Razorpay / Google Pay integration | 🗓️ Planned |
 | **v2.1** | 🏗️ ARCore blueprint overlay on physical workspace | 🗓️ Planned |
@@ -458,7 +458,7 @@ These artisans possess skills refined across generations. They deserve access to
 Built with ❤️ for Indian handicraft artisans.
 
 [![GitHub](https://img.shields.io/badge/GitHub-nishant--kumar0708-181717?style=for-the-badge&logo=github)](https://github.com/nishant-kumar0708/HastaShilpaApp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nishant-kumar-dutta)
+
 
 </div>
 
