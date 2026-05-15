@@ -236,7 +236,7 @@ India's **Western Ghats** — Wayanad, Coorg, Sirsi, Agumbe — are home to thou
 
 <div align="center">
 
-> 📹 **[Watch Demo Video](https://your-demo-link-here.com)** ← *Paste your Google Drive / YouTube screen recording link here*
+> 📹 **[Watch Demo Video](https://your-demo-link-here.com)** ← COMING SOON....................
 
 [![Demo Video Placeholder](https://img.shields.io/badge/▶_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://your-demo-link-here.com)
 
