@@ -1,13 +1,8 @@
 <div align="center">
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&height=100&lines=🎋+Hasta-Shilpa" alt="Hasta-Shilpa"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&height=100&lines=%F0%9F%8E%8B+Hasta-Shilpa" alt="Hasta-Shilpa"/>
   
   <h3>🌿 Empowering Bamboo & Cane Artisans 🌿</h3>
 </div>
-
-</div>
-
 <br/>
 
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
