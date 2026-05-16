@@ -1,10 +1,12 @@
 <div align="center">
 
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:1B5E20,50:4CAF50,100:E65100&amp;text=Hasta-Shilpa&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Empowering%20Bamboo%20%26%20Cane%20Artisans&amp;descAlignY=60&amp;descSize=18"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&height=100&lines=🎋+Hasta-Shilpa" alt="Hasta-Shilpa"/>
+  
+  <h3>🌿 Empowering Bamboo & Cane Artisans 🌿</h3>
 </div>
 
+</div>
 
 <br/>
 
