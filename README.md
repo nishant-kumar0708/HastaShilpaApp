@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B5E20,2E7D32,4CAF50,E65100&height=220&section=header&text=Hasta-Shilpa&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=हस्तशिल्प%20•%20Empowering%20Bamboo%20%26%20Cane%20Artisans%20of%20the%20Western%20Ghats&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Hasta-Shilpa&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Empowering%20Bamboo%20%26%20Cane%20Artisans%20of%20the%20Western%20Ghats&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
